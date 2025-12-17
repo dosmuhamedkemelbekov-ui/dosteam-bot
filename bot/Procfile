@@ -1,0 +1,1 @@
+worker: python dos_team_bot.py
